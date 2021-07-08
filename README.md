@@ -6,7 +6,7 @@ Data Community DC believes that diverse communities are better and stronger. Tog
 
 ## Code of Conduct
 
-Data Community DC is made up of an assortment of professionals and volunteers with different backgrounds. This diversity is one of our strengths, and Data Community DC is dedicated to providing a diverse and inclusive community experience for everyone. Data Visualization DC prohibits any form of discrimination, bullying, or harassment at all events.
+Data Community DC is made up of an assortment of professionals and volunteers with different backgrounds. This diversity is one of our strengths, and Data Community DC is dedicated to providing a diverse and inclusive community experience for everyone. Data Community DC prohibits any form of discrimination, bullying, or harassment at all events.
 
 Harassment includes, but not limited to:
 
